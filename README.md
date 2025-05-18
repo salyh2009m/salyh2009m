@@ -9,5 +9,4 @@ A passionate frontend developer from Turkmenistan
 Connect with me:
 @GoodVps1
 
-Languages and Tools:
-android backbonejs bootstrap c cplusplus css3 docker figma flutter git html5 illustrator java javascript nodejs python react reactnative spring tailwind vuejs
+Languages and Tools:bootstrap css git html javascript
